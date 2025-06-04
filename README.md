@@ -19,3 +19,8 @@
    ```bash
    python main.py
    ```
+
+4. Чтобы получить информацию о складах по артикулу товара:
+   ```bash
+   python stocks.py YOUR_ARTICLE
+   ```
